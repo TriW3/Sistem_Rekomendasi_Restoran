@@ -1,0 +1,22 @@
+dari user 1005
+1005,135032,135032,Cafeteria y Restaurant El Pacifico, ->Cafeteria|Contemporary
+1005,135041,135041,Luna Cafe, -> Bar|Cafeteria
+1005,135042,135042,Restaurant Oriental Express, -> Chinese
+1005,135043,135043,pizza clasica, -> Fast_Food|Pizzeria
+1005,135057,135057,El Herradero Restaurante and Bar, -> Bar
+
+hasil rekomendasi : 
+
+132825 puesto de tacos -> mexican 
+135079,Koye Sushi, -> Chinese
+135085,Tortas Locas Hipocampo, -> Fast_Food
+135059,Restaurant Bar Hacienda los Martinez, -> Bar
+132754,Cabana Huasteca, -> Mexican
+135053,La Fontana Pizza Restaurante and Cafe, -> Cafeteria|Fast_Food|Pizzeria
+135058,Restaurante Tiberius,-> Pizzeria
+132862,La Posada del Virrey, -> International
+135052,La Cantina Restaurante, -> Bar|Bar_Pub_Brewery
+135060,Restaurante Marisco Sam, -> Seafood
+
+
+
