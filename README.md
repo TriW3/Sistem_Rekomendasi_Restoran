@@ -10,5 +10,6 @@ gambar : hasil sistem rekomendasi restoran. <br>
 ## cleaning data : <br> 
 proses preprocessing dilakukan untuk mengkondisikan data sesuai dengan kebutuhan, pada projek ini dilakukan sebagai berikut: <br> 
 1. proses menggabungkan 2 dataset nama restoran dengan prefensi masakannya berpatokan pada ID resto.<br>
+dapat dilihat pada dataset chefmozcuisine.xlsx dan geoplaced.xlsx menjadi resto_dataset3.csv
    ![merge ](https://github.com/TriW3/Sistem_Rekomendasi_Restoran/assets/100888453/f3da0847-0b8e-4031-9134-fc2a871d2c4b)<br>
    
