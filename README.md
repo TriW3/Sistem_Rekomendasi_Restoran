@@ -38,7 +38,7 @@ perhitungan dilakukan kepada 36 restoran tersebut <br>
 ## filtering<br> 
 setelah didapatkan hasil perhitungan untuk ke-36 restoran dilakukan filtering untuk mencegah sistem merekomendasikan restoran yang sama yang pernah dikunjungi oleh test subjek <br> 
 ![perintah filter resto](https://github.com/TriW3/Sistem_Rekomendasi_Restoran/assets/100888453/6d887bec-2e4e-4ed6-a747-448684673123)<br> 
-berikut adalah daftar resto yang pernah dikunjungi test subjek dan tidak lolos dilter <br> 
+berikut adalah daftar resto yang pernah dikunjungi test subjek dan tidak lolos filter <br> 
 ![daftar resto yang pernah dikunjungi](https://github.com/TriW3/Sistem_Rekomendasi_Restoran/assets/100888453/85443794-c5d2-4991-97f2-5277ba3b67aa)<br> 
 dan berikut adalah hasil rekomendasi restoran dengan point tertinggi yang direkomendasikan untuk user dengan ID 1005. <br> 
 ![hasil akhir](https://github.com/TriW3/Sistem_Rekomendasi_Restoran/assets/100888453/ddadd471-45a9-41c3-8259-e1ecb86a7173)<br> 
